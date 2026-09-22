@@ -149,7 +149,7 @@ A Spring Boot backend integrating **Google Gemini AI capabilities** through REST
 
 ### 🌐 Personal Portfolio Website
 
-**HTML • Tailwind CSS • JavaScript**
+**HTML • CSS • JavaScript**
 
 A responsive portfolio website showcasing projects, technical skills, and professional experience.
 
